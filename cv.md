@@ -1,52 +1,52 @@
-Resume
+#**Resume**
 
-Hanna Kadzer
+##**Hanna Kadzer**
 
-Junior developer
+######***Junior developer***
 
-Personal info
+###Personal info
 
-tel: +375291977388
-e-mail: annkaderrr@gmail.com
-LinkedIn: [https://www.linkedin.com/in/hanna-kadzer-73b470164/](https://www.linkedin.com/in/hanna-kadzer-73b470164/)
-Github: [https://github.com/annkader](https://github.com/annkader)
+*__tel__: +375291977388  
+*__e-mail__: annkaderrr@gmail.com  
+*__LinkedIn__: [https://www.linkedin.com/in/hanna-kadzer-73b470164/](https://www.linkedin.com/in/hanna-kadzer-73b470164/)  
+*__Github__: [https://github.com/annkader](https://github.com/annkader)
 
-Summary
+###Summary
 
 I want to level up my programming skills, expand my knowledge and develop professional abilities in programming and design sphere.
-This area of ​​activity attracts me due to continuous development, interesting projects and and finding new solutions to different problems.
+This area of ​​activity attracts me due to continuous development, interesting projects and and finding new solutions to different problems.  
 I have a passion for problem-solving and the ability to balance thinking about both the big picture and the small details. 
-I am attracted to the fact that there’s always something new to learn and you’ll always stay on your toes, expanding your knowledge.
-I try to catch every opportunity for styding.
+I am attracted to the fact that there’s always something new to learn and you’ll always stay on your toes, expanding your knowledge.  
+I try to catch every opportunity for styding.  
 Also I have strong communication skills and ability to work in a team, I am ready to change my opinion upon discussing with teammates or uncovering new information.
 
-Skills
+###Skills
 
-Basic knowledge of C++, C#, JS, Java, HTML/CSS, understanding of object-oriented programming.
+Basic knowledge of __C++, C#, JS, Java, HTML/CSS__, understanding of __object-oriented programming__.
 
-Code examples
+###Code examples
 
-http://annkader.gear.host/
-https://github.com/annkader
+*[http://annkader.gear.host/](http://annkader.gear.host/) 
+*[https://github.com/annkader](https://github.com/annkader)
 
-Experience
+###Experience
 
-I created a website for a photographer, it was a project at the university(HTML/CSS, JS).
-Also in my experience there is a website creation with the solution of certain problems of coding information [http://annkader.gear.host/](http://annkader.gear.host/)(HTML/CSS, C#).
-I solve tasks on freeCodeCamp and SoloLearn.
-Currently at the university we perform various tasks on JS and mobile application development (Java). 
+I created a website for a photographer, it was a project at the university(HTML/CSS, JS).  
+Also in my experience there is a website creation with the solution of certain problems of coding information [http://annkader.gear.host/](http://annkader.gear.host/)(HTML/CSS, C#).  
+I solve tasks on freeCodeCamp and SoloLearn.  
+Currently at the university we perform various tasks on JS and mobile application development (Java).
 
-Education
+###Education
 
-School of Business of BSU, Information Resources Management
-CodeAcademy: HTML and CSS courses
-freeCodeCamp
-SoloLearn: HTML, CSS, JS
-Htmlbook
+*School of Business of BSU, Information Resources Management  
+*CodeAcademy: HTML and CSS courses  
+*freeCodeCamp  
+*SoloLearn: HTML, CSS, JS  
+*Htmlbook  
 
-English
+###English
 
-Upper-Intermediate (B2)
-Eleven years of study English at the gymnasium and three years at university, 
-extra classes with a tutor, Courses of spoken English in the language school "Polyglot".
-Practice in the USA for three months (as Work&Travel participant).
+*Upper-Intermediate level (__B2__).  
+*Eleven years of study English at the gymnasium and three years at university,
+extra classes with a tutor, Courses of spoken English in the language school "Polyglot".  
+*Practice in the USA for three months (as Work&Travel participant).
